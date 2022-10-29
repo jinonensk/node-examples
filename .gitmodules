@@ -1,3 +1,6 @@
 [submodule "Modularity"]
 	path = Modularity
 	url = https://github.com/HowProgrammingWorks/Modularity
+[submodule "Packages"]
+	path = Packages
+	url = https://github.com/HowProgrammingWorks/Packages
