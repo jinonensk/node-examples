@@ -1,0 +1,3 @@
+[submodule "Modularity"]
+	path = Modularity
+	url = https://github.com/HowProgrammingWorks/Modularity
